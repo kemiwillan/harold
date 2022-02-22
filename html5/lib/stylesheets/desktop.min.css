@@ -5878,7 +5878,7 @@ input[type="range"]::-ms-tooltip {
   display: none;
 }
 .mobile-start-overlay {
-  background: url("../../../mobile/harold_thumbnail.png") !important;
+  background: url("../../../mobile/darken_v2.png") !important;
   background-size: cover !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
@@ -5985,7 +5985,7 @@ input[type="range"]::-ms-tooltip {
   top: 50%;
   transform: translateY(-50%);
   width: 0;
-  height: 0;
+  height: 0;r   
   border-style: solid;
   border-width: 9px 0 9px 15px;
   border-color: transparent transparent transparent #6e6e6e;
