@@ -5877,6 +5877,7 @@ input[type="range"]::-ms-tooltip {
 .captions-overflow .captions-on #icon-off {
   display: none;
 }
+
 .mobile-start-overlay {
   background: url("../../../mobile/darken_v2.png") !important;
   background-size: cover !important;
@@ -5889,6 +5890,7 @@ input[type="range"]::-ms-tooltip {
   bottom: 0px;
   left: 0;
 }
+
 .mobile-start-overlay .mobile-start-overlay-thumbnail img {
   max-width: 100%;
   max-height: 100%;
@@ -5985,7 +5987,7 @@ input[type="range"]::-ms-tooltip {
   top: 50%;
   transform: translateY(-50%);
   width: 0;
-  height: 0;r   
+  height: 0;
   border-style: solid;
   border-width: 9px 0 9px 15px;
   border-color: transparent transparent transparent #6e6e6e;
