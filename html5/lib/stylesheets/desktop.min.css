@@ -5877,6 +5877,7 @@ input[type="range"]::-ms-tooltip {
 .captions-overflow .captions-on #icon-off {
   display: none;
 }
+<<<<<<< HEAD
 
 .mobile-start-overlay {
   background: url("../../../mobile/darken_v2.png") !important;
@@ -5884,13 +5885,20 @@ input[type="range"]::-ms-tooltip {
   background-repeat: no-repeat !important;
   background-position: center !important;
   width: 100%;
+=======
+.mobile-start-overlay {
+  background: #000;
+>>>>>>> c1c60c1f41641a4428c384794d00d69999c50c6b
   position: fixed;
   top: 0;
   right: 0;
   bottom: 0px;
   left: 0;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> c1c60c1f41641a4428c384794d00d69999c50c6b
 .mobile-start-overlay .mobile-start-overlay-thumbnail img {
   max-width: 100%;
   max-height: 100%;
@@ -6235,3 +6243,19 @@ span.text {
   vertical-align: text-top;
   line-height: 1;
 } /*# sourceMappingURL=desktop.min.css.map */
+<<<<<<< HEAD
+=======
+
+.mobile-start-overlay {
+  background: url("../../../mobile/darken_v2.png") !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0px;
+  left: 0;
+}
+>>>>>>> c1c60c1f41641a4428c384794d00d69999c50c6b
